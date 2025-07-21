@@ -29,7 +29,7 @@ spec:
               - ALL
           privileged: false
           readOnlyRootFilesystem: true
-        image: marypearl/cartservice:latest
+        image: alade01/cartservice:latest
         ports:
         - containerPort: 7070
         env:

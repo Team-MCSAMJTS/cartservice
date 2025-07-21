@@ -5,7 +5,7 @@ on:
     branches: [ main ]
 
 env:
-  IMAGE_NAME: marypearl/cartservice
+  IMAGE_NAME: alade01/cartservice
 
 jobs:
   build-and-push:
