@@ -31,3 +31,5 @@ jobs:
             --tag $IMAGE_NAME:latest \
             --tag $IMAGE_NAME:${{ github.sha }} \
             --push .
+
+
